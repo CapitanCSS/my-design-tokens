@@ -1,0 +1,54 @@
+{
+  "font-size": {
+    "H1": {
+      "$type": "number",
+      "$value": 38
+    },
+    "H2": {
+      "$type": "number",
+      "$value": 32
+    },
+    "H3": {
+      "$type": "number",
+      "$value": 26
+    },
+    "H4": {
+      "$type": "number",
+      "$value": 22
+    },
+    "H5": {
+      "$type": "number",
+      "$value": 19
+    },
+    "Title1": {
+      "$type": "number",
+      "$value": 17
+    },
+    "Title2": {
+      "$type": "number",
+      "$value": 16
+    },
+    "Body": {
+      "$type": "number",
+      "$value": 15
+    },
+    "Caption": {
+      "$type": "number",
+      "$value": 12
+    },
+    "Bodylink": {
+      "$type": "number",
+      "$value": 15
+    }
+  },
+  "font-weight": {
+    "regular": {
+      "$type": "number",
+      "$value": 400
+    },
+    "medium": {
+      "$type": "number",
+      "$value": 500
+    }
+  }
+}

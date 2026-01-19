@@ -1,0 +1,58 @@
+{
+  "Size": {
+    "XXS": {
+      "$type": "number",
+      "$value": "{size-004}"
+    },
+    "XS": {
+      "$type": "number",
+      "$value": "{size-008}"
+    },
+    "S": {
+      "$type": "number",
+      "$value": "{size-016}"
+    },
+    "M": {
+      "$type": "number",
+      "$value": "{size-024}"
+    },
+    "L": {
+      "$type": "number",
+      "$value": "{size-032}"
+    },
+    "XL": {
+      "$type": "number",
+      "$value": "{size-040}"
+    },
+    "2XL": {
+      "$type": "number",
+      "$value": "{size-048}"
+    },
+    "3XL": {
+      "$type": "number",
+      "$value": "{size-056}"
+    },
+    "4XL": {
+      "$type": "number",
+      "$value": "{size-064}"
+    },
+    "Zero": {
+      "$type": "number",
+      "$value": "{size-000}"
+    }
+  },
+  "Borders": {
+    "M": {
+      "$type": "number",
+      "$value": "{size-004}"
+    },
+    "L": {
+      "$type": "number",
+      "$value": "{size-008}"
+    },
+    "XL": {
+      "$type": "number",
+      "$value": "{size-016}"
+    }
+  }
+}

@@ -1,0 +1,186 @@
+{
+  "Brand": {
+    "Colour-Brand-Primary": {
+      "$type": "color",
+      "$value": "{brand.600}"
+    },
+    "Colour-Brand-Light": {
+      "$type": "color",
+      "$value": "{brand.400}"
+    },
+    "Colour-Brand-Lighter": {
+      "$type": "color",
+      "$value": "{brand.200}"
+    },
+    "Colour-Brand-Dark": {
+      "$type": "color",
+      "$value": "{brand.700}"
+    },
+    "Colour-Brand-Darker": {
+      "$type": "color",
+      "$value": "{brand.800}"
+    }
+  },
+  "Success": {
+    "Colour-Success-Main": {
+      "$type": "color",
+      "$value": "{success.600}"
+    },
+    "Colour-Success-Light": {
+      "$type": "color",
+      "$value": "{success.400}"
+    },
+    "Colour-Success-Dark": {
+      "$type": "color",
+      "$value": "{success.800}"
+    }
+  },
+  "Warning": {
+    "Colour-Warning-Main": {
+      "$type": "color",
+      "$value": "{warning.500}"
+    },
+    "Colour-Warning-Light": {
+      "$type": "color",
+      "$value": "{warning.300}"
+    },
+    "Colour-Warning-Dark": {
+      "$type": "color",
+      "$value": "{warning.700}"
+    }
+  },
+  "Error": {
+    "Colour-Error-Main": {
+      "$type": "color",
+      "$value": "{error.600}"
+    },
+    "Colour-Error-Light": {
+      "$type": "color",
+      "$value": "{error.400}"
+    },
+    "Colour-Error-Dark": {
+      "$type": "color",
+      "$value": "{error.800}"
+    }
+  },
+  "Info": {
+    "Colour-Info-Main": {
+      "$type": "color",
+      "$value": "{Info.600}"
+    },
+    "Colour-Info-Light": {
+      "$type": "color",
+      "$value": "{Info.400}"
+    },
+    "Colour-Info-Dark": {
+      "$type": "color",
+      "$value": "{Info.800}"
+    }
+  },
+  "Background": {
+    "Colour-Background-Main": {
+      "$type": "color",
+      "$value": "{neutral.50}"
+    },
+    "Colour-Background-Brand": {
+      "$type": "color",
+      "$value": "{brand.500}"
+    },
+    "Colour-Background-Secondary": {
+      "$type": "color",
+      "$value": "{brand.200}"
+    },
+    "Colour-Background-Screen": {
+      "$type": "color",
+      "$value": "{Background-Screen}"
+    },
+    "Colour-Background-Container": {
+      "$type": "color",
+      "$value": "{Background-Container}"
+    }
+  },
+  "Buttons": {
+    "Colour-Button-Main": {
+      "$type": "color",
+      "$value": "{brand.500}"
+    },
+    "Colour-Button-Secondary": {
+      "$type": "color",
+      "$value": "{brand.300}"
+    },
+    "Colour-Button-Dark": {
+      "$type": "color",
+      "$value": "{neutral.800}"
+    }
+  },
+  "ButtonText": {
+    "Colour-ButtonText-Main": {
+      "$type": "color",
+      "$value": "{neutral.50}"
+    },
+    "Colour-ButtonText-Secondary": {
+      "$type": "color",
+      "$value": "{neutral.900}"
+    }
+  },
+  "Neutrals": {
+    "Colour-Neutral-Lighter": {
+      "$type": "color",
+      "$value": "{neutral.100}"
+    },
+    "Colour-Neutral-Light": {
+      "$type": "color",
+      "$value": "{neutral.300}"
+    },
+    "Colour-Neutral-Main": {
+      "$type": "color",
+      "$value": "{neutral.500}"
+    },
+    "Colour-Neutral-Dark": {
+      "$type": "color",
+      "$value": "{neutral.800}"
+    },
+    "Colour-Neutral-Darker": {
+      "$type": "color",
+      "$value": "{neutral.950}"
+    }
+  },
+  "Tags and Charts": {
+    "Colour-TagsCharts-TealLight": {
+      "$type": "color",
+      "$value": "{brand.300}"
+    },
+    "Colour-TagsCharts-BlueLight": {
+      "$type": "color",
+      "$value": "{Info.300}"
+    },
+    "Colour-TagsCharts-PurpleLight": {
+      "$type": "color",
+      "$value": "{extra.300}"
+    },
+    "Colour-TagsCharts-OrangeLight": {
+      "$type": "color",
+      "$value": "{warning.300}"
+    },
+    "Colour-TagsCharts-BlueDark": {
+      "$type": "color",
+      "$value": "{Info.600}"
+    },
+    "Colour-TagsCharts-PurpleDark": {
+      "$type": "color",
+      "$value": "{extra.600}"
+    },
+    "Colour-TagsCharts-Darker 3": {
+      "$type": "color",
+      "$value": "{success.600}"
+    },
+    "Colour-TagsCharts-TealDark": {
+      "$type": "color",
+      "$value": "{brand.700}"
+    },
+    "Colour-TagsCharts-Underperforming": {
+      "$type": "color",
+      "$value": "{error.600}"
+    }
+  }
+}

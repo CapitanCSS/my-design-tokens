@@ -1,0 +1,409 @@
+{
+  "brand": {
+    "50": {
+      "$type": "color",
+      "$value": "#b8fdfe",
+      "$description": "#B8FDFE | Tailwind CSS color palette"
+    },
+    "100": {
+      "$type": "color",
+      "$value": "#40fafc",
+      "$description": "#40FAFC | Tailwind CSS color palette"
+    },
+    "200": {
+      "$type": "color",
+      "$value": "#36d8da",
+      "$description": "#36D8DA | Tailwind CSS color palette"
+    },
+    "300": {
+      "$type": "color",
+      "$value": "#2dbabc",
+      "$description": "#2DBABC | Tailwind CSS color palette"
+    },
+    "400": {
+      "$type": "color",
+      "$value": "#249a9c",
+      "$description": "#249A9C | Tailwind CSS color palette"
+    },
+    "500": {
+      "$type": "color",
+      "$value": "#1b7d7e",
+      "$description": "#1B7D7E | Tailwind CSS color palette"
+    },
+    "600": {
+      "$type": "color",
+      "$value": "#136464",
+      "$description": "#136464 | Tailwind CSS color palette"
+    },
+    "700": {
+      "$type": "color",
+      "$value": "#0d4c4d",
+      "$description": "#0D4C4D | Tailwind CSS color palette"
+    },
+    "800": {
+      "$type": "color",
+      "$value": "#063434",
+      "$description": "#063434 | Tailwind CSS color palette"
+    },
+    "900": {
+      "$type": "color",
+      "$value": "#022020",
+      "$description": "#022020 | Tailwind CSS color palette"
+    },
+    "950": {
+      "$type": "color",
+      "$value": "#011414",
+      "$description": "#011414 | Tailwind CSS color palette"
+    }
+  },
+  "neutral": {
+    "50": {
+      "$type": "color",
+      "$value": "#f0f1f3",
+      "$description": "#F0F1F3 | Tailwind CSS color palette"
+    },
+    "100": {
+      "$type": "color",
+      "$value": "#dedfe5",
+      "$description": "#DEDFE5 | Tailwind CSS color palette"
+    },
+    "200": {
+      "$type": "color",
+      "$value": "#c0c4cd",
+      "$description": "#C0C4CD | Tailwind CSS color palette"
+    },
+    "300": {
+      "$type": "color",
+      "$value": "#a1a6b5",
+      "$description": "#A1A6B5 | Tailwind CSS color palette"
+    },
+    "400": {
+      "$type": "color",
+      "$value": "#848b9f",
+      "$description": "#848B9F | Tailwind CSS color palette"
+    },
+    "500": {
+      "$type": "color",
+      "$value": "#6a7081",
+      "$description": "#6A7081 | Tailwind CSS color palette"
+    },
+    "600": {
+      "$type": "color",
+      "$value": "#545967",
+      "$description": "#545967 | Tailwind CSS color palette"
+    },
+    "700": {
+      "$type": "color",
+      "$value": "#3e424d",
+      "$description": "#3E424D | Tailwind CSS color palette"
+    },
+    "800": {
+      "$type": "color",
+      "$value": "#2b2e36",
+      "$description": "#2B2E36 | Tailwind CSS color palette"
+    },
+    "900": {
+      "$type": "color",
+      "$value": "#18191f",
+      "$description": "#18191F | Tailwind CSS color palette"
+    },
+    "950": {
+      "$type": "color",
+      "$value": "#0f1115",
+      "$description": "#0F1115 | Tailwind CSS color palette"
+    }
+  },
+  "error": {
+    "50": {
+      "$type": "color",
+      "$value": "#fff0f0",
+      "$description": "#FFF0F0 | Tailwind CSS color palette"
+    },
+    "100": {
+      "$type": "color",
+      "$value": "#ffdddd",
+      "$description": "#FFDDDD | Tailwind CSS color palette"
+    },
+    "200": {
+      "$type": "color",
+      "$value": "#ffbbbb",
+      "$description": "#FFBBBB | Tailwind CSS color palette"
+    },
+    "300": {
+      "$type": "color",
+      "$value": "#ff9696",
+      "$description": "#FF9696 | Tailwind CSS color palette"
+    },
+    "400": {
+      "$type": "color",
+      "$value": "#ff6b6b",
+      "$description": "#FF6B6B | Tailwind CSS color palette"
+    },
+    "500": {
+      "$type": "color",
+      "$value": "#ff2a2a",
+      "$description": "#FF2A2A | Tailwind CSS color palette"
+    },
+    "600": {
+      "$type": "color",
+      "$value": "#d30000",
+      "$description": "#D30000 | Tailwind CSS color palette"
+    },
+    "700": {
+      "$type": "color",
+      "$value": "#a10000",
+      "$description": "#A10000 | Tailwind CSS color palette"
+    },
+    "800": {
+      "$type": "color",
+      "$value": "#710000",
+      "$description": "#710000 | Tailwind CSS color palette"
+    },
+    "900": {
+      "$type": "color",
+      "$value": "#450000",
+      "$description": "#450000 | Tailwind CSS color palette"
+    },
+    "950": {
+      "$type": "color",
+      "$value": "#310000",
+      "$description": "#310000 | Tailwind CSS color palette"
+    }
+  },
+  "warning": {
+    "50": {
+      "$type": "color",
+      "$value": "#fff8f3",
+      "$description": "#FFF8F3 | Tailwind CSS color palette"
+    },
+    "100": {
+      "$type": "color",
+      "$value": "#fff1e7",
+      "$description": "#FFF1E7 | Tailwind CSS color palette"
+    },
+    "200": {
+      "$type": "color",
+      "$value": "#ffe0c6",
+      "$description": "#FFE0C6 | Tailwind CSS color palette"
+    },
+    "300": {
+      "$type": "color",
+      "$value": "#ffd2a8",
+      "$description": "#FFD2A8 | Tailwind CSS color palette"
+    },
+    "400": {
+      "$type": "color",
+      "$value": "#ffc384",
+      "$description": "#FFC384 | Tailwind CSS color palette"
+    },
+    "500": {
+      "$type": "color",
+      "$value": "#ffb347",
+      "$description": "#FFB347 | Tailwind CSS color palette"
+    },
+    "600": {
+      "$type": "color",
+      "$value": "#cf8b00",
+      "$description": "#CF8B00 | Tailwind CSS color palette"
+    },
+    "700": {
+      "$type": "color",
+      "$value": "#986500",
+      "$description": "#986500 | Tailwind CSS color palette"
+    },
+    "800": {
+      "$type": "color",
+      "$value": "#654200",
+      "$description": "#654200 | Tailwind CSS color palette"
+    },
+    "900": {
+      "$type": "color",
+      "$value": "#392300",
+      "$description": "#392300 | Tailwind CSS color palette"
+    },
+    "950": {
+      "$type": "color",
+      "$value": "#241400",
+      "$description": "#241400 | Tailwind CSS color palette"
+    }
+  },
+  "success": {
+    "50": {
+      "$type": "color",
+      "$value": "#f5fff5",
+      "$description": "#F5FFF5 | Tailwind CSS color palette"
+    },
+    "100": {
+      "$type": "color",
+      "$value": "#eaffea",
+      "$description": "#EAFFEA | Tailwind CSS color palette"
+    },
+    "200": {
+      "$type": "color",
+      "$value": "#c6ffc7",
+      "$description": "#C6FFC7 | Tailwind CSS color palette"
+    },
+    "300": {
+      "$type": "color",
+      "$value": "#aaffab",
+      "$description": "#AAFFAB | Tailwind CSS color palette"
+    },
+    "400": {
+      "$type": "color",
+      "$value": "#87ff89",
+      "$description": "#87FF89 | Tailwind CSS color palette"
+    },
+    "500": {
+      "$type": "color",
+      "$value": "#49ff4f",
+      "$description": "#49FF4F | Tailwind CSS color palette"
+    },
+    "600": {
+      "$type": "color",
+      "$value": "#00ca15",
+      "$description": "#00CA15 | Tailwind CSS color palette"
+    },
+    "700": {
+      "$type": "color",
+      "$value": "#00930c",
+      "$description": "#00930C | Tailwind CSS color palette"
+    },
+    "800": {
+      "$type": "color",
+      "$value": "#006105",
+      "$description": "#006105 | Tailwind CSS color palette"
+    },
+    "900": {
+      "$type": "color",
+      "$value": "#003501",
+      "$description": "#003501 | Tailwind CSS color palette"
+    },
+    "950": {
+      "$type": "color",
+      "$value": "#001f01",
+      "$description": "#001F01 | Tailwind CSS color palette"
+    }
+  },
+  "extra": {
+    "50": {
+      "$type": "color",
+      "$value": "#f5f2ff",
+      "$description": "#F5F2FF | Tailwind CSS color palette"
+    },
+    "100": {
+      "$type": "color",
+      "$value": "#e9e1ff",
+      "$description": "#E9E1FF | Tailwind CSS color palette"
+    },
+    "200": {
+      "$type": "color",
+      "$value": "#d4c3ff",
+      "$description": "#D4C3FF | Tailwind CSS color palette"
+    },
+    "300": {
+      "$type": "color",
+      "$value": "#c1a4ff",
+      "$description": "#C1A4FF | Tailwind CSS color palette"
+    },
+    "400": {
+      "$type": "color",
+      "$value": "#af84ff",
+      "$description": "#AF84FF | Tailwind CSS color palette"
+    },
+    "500": {
+      "$type": "color",
+      "$value": "#9f63ff",
+      "$description": "#9F63FF | Tailwind CSS color palette"
+    },
+    "600": {
+      "$type": "color",
+      "$value": "#8c1fff",
+      "$description": "#8C1FFF | Tailwind CSS color palette"
+    },
+    "700": {
+      "$type": "color",
+      "$value": "#6d00cb",
+      "$description": "#6D00CB | Tailwind CSS color palette"
+    },
+    "800": {
+      "$type": "color",
+      "$value": "#4b0090",
+      "$description": "#4B0090 | Tailwind CSS color palette"
+    },
+    "900": {
+      "$type": "color",
+      "$value": "#2c0059",
+      "$description": "#2C0059 | Tailwind CSS color palette"
+    },
+    "950": {
+      "$type": "color",
+      "$value": "#1f0041",
+      "$description": "#1F0041 | Tailwind CSS color palette"
+    }
+  },
+  "Info": {
+    "50": {
+      "$type": "color",
+      "$value": "#f2f7ff",
+      "$description": "#F2F7FF | Tailwind CSS color palette"
+    },
+    "100": {
+      "$type": "color",
+      "$value": "#e0ecff",
+      "$description": "#E0ECFF | Tailwind CSS color palette"
+    },
+    "200": {
+      "$type": "color",
+      "$value": "#c4dcff",
+      "$description": "#C4DCFF | Tailwind CSS color palette"
+    },
+    "300": {
+      "$type": "color",
+      "$value": "#a0c9ff",
+      "$description": "#A0C9FF | Tailwind CSS color palette"
+    },
+    "400": {
+      "$type": "color",
+      "$value": "#76b8ff",
+      "$description": "#76B8FF | Tailwind CSS color palette"
+    },
+    "500": {
+      "$type": "color",
+      "$value": "#38a7ff",
+      "$description": "#38A7FF | Tailwind CSS color palette"
+    },
+    "600": {
+      "$type": "color",
+      "$value": "#0084d1",
+      "$description": "#0084D1 | Tailwind CSS color palette"
+    },
+    "700": {
+      "$type": "color",
+      "$value": "#00629e",
+      "$description": "#00629E | Tailwind CSS color palette"
+    },
+    "800": {
+      "$type": "color",
+      "$value": "#00436d",
+      "$description": "#00436D | Tailwind CSS color palette"
+    },
+    "900": {
+      "$type": "color",
+      "$value": "#00233d",
+      "$description": "#00233D | Tailwind CSS color palette"
+    },
+    "950": {
+      "$type": "color",
+      "$value": "#00172a",
+      "$description": "#00172A | Tailwind CSS color palette"
+    }
+  },
+  "Background-Screen": {
+    "$type": "color",
+    "$value": "#f9f9f9"
+  },
+  "Background-Container": {
+    "$type": "color",
+    "$value": "#ffffff"
+  }
+}

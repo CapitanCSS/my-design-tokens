@@ -1,0 +1,74 @@
+{
+  "size-000": {
+    "$type": "number",
+    "$value": 0
+  },
+  "size-008": {
+    "$type": "number",
+    "$value": 8
+  },
+  "size-016": {
+    "$type": "number",
+    "$value": 16
+  },
+  "size-024": {
+    "$type": "number",
+    "$value": 24
+  },
+  "size-032": {
+    "$type": "number",
+    "$value": 32
+  },
+  "size-040": {
+    "$type": "number",
+    "$value": 40
+  },
+  "size-048": {
+    "$type": "number",
+    "$value": 48
+  },
+  "size-056": {
+    "$type": "number",
+    "$value": 56
+  },
+  "size-064": {
+    "$type": "number",
+    "$value": 64
+  },
+  "size-072": {
+    "$type": "number",
+    "$value": 72
+  },
+  "size-080": {
+    "$type": "number",
+    "$value": 80
+  },
+  "size-088": {
+    "$type": "number",
+    "$value": 88
+  },
+  "size-096": {
+    "$type": "number",
+    "$value": 96
+  },
+  "size-104": {
+    "$type": "number",
+    "$value": 104
+  },
+  "size-112": {
+    "$type": "number",
+    "$value": 112
+  },
+  "size-120": {
+    "$type": "number",
+    "$value": 120
+  },
+  "size-128": {
+    "$type": "number",
+    "$value": 128
+  },
+  "size-004": {
+    "$type": "number",
+    "$value": 4
+  }
+}

@@ -1,0 +1,10 @@
+{
+  "tokenSetOrder": [
+    "Primitives/Mode 1",
+    "Semantic/Mode 1",
+    "Primitive Size/Mode 1",
+    "Size and spacing/Mode 1",
+    "Typography/Desktop",
+    "Typography/Mobile"
+  ]
+}
